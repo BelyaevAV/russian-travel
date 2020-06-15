@@ -1,0 +1,6 @@
+@import url('./_spanned/intro__list-item_spanned.css');
+
+.intro__list-item {
+  font-size: 12px;
+  line-height: 18px;
+}

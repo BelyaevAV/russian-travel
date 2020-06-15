@@ -1,0 +1,9 @@
+.place__description {
+  display: flex;
+}
+
+@media (max-width: 600px) {
+  .place__description {
+    flex-direction: column;
+  }
+}
