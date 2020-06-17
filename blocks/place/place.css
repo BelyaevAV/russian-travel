@@ -4,6 +4,9 @@
 @import url('./__text/place__text.css');
 @import url('./__url/place__url.css');
 @import url('./__description/place__description.css');
+@import url('./__title/place__title.css');
+@import url('./__url-block/place__url-block.css');
+@import url('./__text-block/place__text-block.css');
 
 .place {
   width: 76.875%;

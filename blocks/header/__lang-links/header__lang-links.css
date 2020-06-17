@@ -1,7 +1,8 @@
 .header__lang-links {
-  padding-top: 46px;
-  padding-right: 48px;
-  text-align: right;
+  padding: 46px 48px 0 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
 
 }
 

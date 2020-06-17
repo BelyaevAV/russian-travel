@@ -1,0 +1,11 @@
+.footer__url:nth-of-type(1) {
+  padding-top: 0;
+}
+
+@media (max-width: 680px){
+  .footer__url {
+    padding-top: 32px;
+  }
+
+
+}

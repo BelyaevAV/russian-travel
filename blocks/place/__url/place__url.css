@@ -4,26 +4,7 @@
   letter-spacing: 0.2em;
   color: #AAAAAA;
   margin: 0;
-  width: 35.625%;
-  display: inline-block;
-  padding-bottom: 48px;
-  padding-left: 40px;
+  padding-bottom: 12px;
 }
 
-@media (max-width: 1024px){
-  .place__url {
-   padding-left: 32px;
-  }
-}
 
-@media (max-width: 768px){
-  .place__url {
-    padding-left: 28px;
-  }
-}
-
-@media (max-width: 320px){
-  .place__url {
-    display: none;
-  }
-}

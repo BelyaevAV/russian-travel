@@ -1,6 +1,7 @@
 @import url('./__copiright/footer__copiright.css');
 @import url('./__link/footer__link.css');
-@import url('./__navigation/footer__navigation.css');
+@import url('./__links/footer__links.css');
+@import url('./__url/footer__url.css');
 
 .footer{
   display: flex;
@@ -22,7 +23,7 @@
   }
 }
 
-@media (max-width: 320px){
+@media (max-width: 680px){
   .footer {
     flex-direction: column;
     width: 90%;

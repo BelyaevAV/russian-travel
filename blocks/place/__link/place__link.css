@@ -4,7 +4,12 @@
   line-height: 22px;
 }
 
-@media (max-width: 320px){
+.place__link:hover {
+  opacity: 0.8;
+  transition: all 1s ease-out;
+}
+
+@media (max-width: 620px){
   .place__link {
     display: none;
   }
