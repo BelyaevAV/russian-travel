@@ -14,8 +14,7 @@
   background-position: center;
   z-index: 1;
   height: 740px;
-  
-}
+  }
 
 @media (max-width: 1024px){
   .cover {
@@ -31,7 +30,7 @@
   }
 }
 
-@media (max-width: 320px){
+@media (max-width: 605px){
   .cover {
     height: 200px;
   }

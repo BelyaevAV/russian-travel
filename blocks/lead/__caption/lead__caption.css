@@ -4,8 +4,9 @@
   letter-spacing: 0.15em;
   text-transform: uppercase;
   padding-top: 8px;
-  margin: auto;
   width: 76.875%;
+  max-width: 984px;
+  margin: auto;
 }
 
 @media (max-width: 1024px){
