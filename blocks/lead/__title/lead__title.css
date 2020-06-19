@@ -2,22 +2,15 @@
   font-weight: 900;
   font-size: 96px;
   line-height: 100px;
-  width: 56.25%;
   margin: auto;
   text-align: center;
   padding-top: 56px;
+  max-width: 720px;
 }
 
 @media (max-width: 1024px){
   .lead__title {
     padding-top: 48px;
-    width: 70.3125%;
-  }
-}
-
-@media (max-width: 880px){
-  .lead__title {
-    width: 93.75%;
   }
 }
 

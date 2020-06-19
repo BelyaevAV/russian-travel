@@ -5,21 +5,18 @@
 @import url('./__span/intro__span.css');
 
 .intro {
-  width: 76.875%;
   margin: auto;
   max-width: 984px;
 }
 
 @media (max-width: 1024px){
   .intro {
-    margin: auto;
     width: 90.625%;
   }
 }
 
 @media (max-width: 768px){
   .intro {
-    margin: auto;
     width: 93.75%;
   }
 }

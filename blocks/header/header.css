@@ -6,4 +6,25 @@
 .header {
   display: flex;
   justify-content: space-between;
+  margin: auto;
+  max-width: 1184px;
+  width: 92.5%;
     }
+
+@media (max-width: 1024px) {
+  .header {
+    width: 90.625%;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    width: 93.75%;
+  }
+}
+
+@media (max-width: 320px) {
+  .header {
+    width: 90%;
+  }
+}

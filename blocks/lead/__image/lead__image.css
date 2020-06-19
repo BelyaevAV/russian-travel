@@ -1,7 +1,6 @@
 .lead__image {
   display: block;
   margin: auto;
-  width: 76.875%;
   max-width: 984px;
   object-fit: fill;
   padding-top: 64px;

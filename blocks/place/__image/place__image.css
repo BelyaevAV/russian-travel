@@ -20,11 +20,16 @@
   }
 }
 
+@media (max-width: 600px) {
+  .place__image {
+    margin: 0 0 32px 0;
+  }
+}
+
 @media (max-width: 410px){
   .place__image {
     max-width: 320px;
     max-height: 320px;
-    margin: 0 0 32px 0;
     width: 100%;
   }
 }

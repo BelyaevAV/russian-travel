@@ -3,7 +3,6 @@
   font-size: 72px;
   line-height: 76px;
   padding-top: 245px;
-  width: 43.75%;
   margin: auto;
   max-width: 560px;
   text-align: center;
@@ -12,14 +11,12 @@
 @media (max-width: 1024px){
   .cover__title {
     padding-top: 195px;
-    width: 54.6875%;
   }
 }
 
 @media (max-width: 768px){
   .cover__title {
     padding-top: 115px;
-    width: calc(560 / 768 * 100%);
   }
 }
 
